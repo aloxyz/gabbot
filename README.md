@@ -1,3 +1,3 @@
 # Gabbot
 
-Create a `token` file inside root directory and put your Huggingface inference API in it. 
+Create a `token` file inside root directory and put your huggingface inference API token in it. 
